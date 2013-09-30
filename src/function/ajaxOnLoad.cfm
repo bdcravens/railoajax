@@ -8,4 +8,7 @@
 		
 		subscribe to the onload event
 		 ---><cfoutput><script type="text/javascript">Railo.Events.subscribe(#arguments.functionname#,'onLoad');</script></cfoutput></cfif><!--- 
----></cffunction>
+--->
+<!--- foo! --->	
+	
+</cffunction>
